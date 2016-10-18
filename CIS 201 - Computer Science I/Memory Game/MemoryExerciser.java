@@ -3,6 +3,7 @@
   Course: CIS 201 - Computer Science I
   Section: 001
   Assignment: 1
+  Note: We just had to copy the source file.
 */
 
 import java.util.*;
